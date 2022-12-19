@@ -6,5 +6,5 @@ def main():
     Returns:
         str: return answer.
     """
-    return "CODESSCHOOLUZ"
+    return str("*")*5
 print(main())
